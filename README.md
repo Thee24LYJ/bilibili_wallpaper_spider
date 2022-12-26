@@ -21,7 +21,7 @@
 
 ### 方式2：直接读取json文件
 
-+ 浏览器打开https://api.vc.bilibili.com/link_draw/v1/doc/doc_list?uid=6823116&page_num=0&page_size=10000&biz=all并将其内容保存成`json`文件
++ 浏览器打开 https://api.vc.bilibili.com/link_draw/v1/doc/doc_list?uid=6823116&page_num=0&page_size=10000&biz=all 并将其内容保存成`json`文件
 + 取消直接读取`json`文件的代码注释并修改`json_path`为保存的`json`文件路径
 + 注释`URL`请求得到`json`数据
 
